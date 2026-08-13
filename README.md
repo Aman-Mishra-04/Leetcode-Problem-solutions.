@@ -38,6 +38,7 @@ leetcode solutions are available here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
@@ -47,4 +48,20 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
