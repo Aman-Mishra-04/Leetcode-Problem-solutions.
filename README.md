@@ -10,6 +10,7 @@ leetcode solutions are available here.
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0024-swap-nodes-in-pairs) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -47,6 +48,7 @@ leetcode solutions are available here.
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
 ## Array
 |  |
