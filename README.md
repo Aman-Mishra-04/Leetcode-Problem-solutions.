@@ -11,6 +11,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -58,6 +59,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Stack
 |  |
 | ------- |
