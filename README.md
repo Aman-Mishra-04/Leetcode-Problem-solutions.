@@ -49,6 +49,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -60,6 +61,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
@@ -98,4 +100,20 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
