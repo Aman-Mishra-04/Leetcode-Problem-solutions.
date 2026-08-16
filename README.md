@@ -25,6 +25,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0089-gray-code) |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,6 +47,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +57,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +71,24 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
