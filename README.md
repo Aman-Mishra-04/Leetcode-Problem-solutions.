@@ -25,6 +25,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0089-gray-code) |
+| [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
@@ -43,6 +44,7 @@ leetcode solutions are available here.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+| [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +55,7 @@ leetcode solutions are available here.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+| [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -91,4 +94,8 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
