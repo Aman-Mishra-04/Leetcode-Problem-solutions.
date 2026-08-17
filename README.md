@@ -24,6 +24,7 @@ leetcode solutions are available here.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
@@ -34,6 +35,7 @@ leetcode solutions are available here.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0089-gray-code) |
 ## String
 |  |
