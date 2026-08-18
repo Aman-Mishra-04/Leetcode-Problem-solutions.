@@ -6,6 +6,7 @@ leetcode solutions are available here.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
@@ -65,6 +66,7 @@ leetcode solutions are available here.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -89,6 +91,7 @@ leetcode solutions are available here.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -118,6 +121,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -131,4 +135,12 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
