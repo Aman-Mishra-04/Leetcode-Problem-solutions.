@@ -64,6 +64,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -71,6 +72,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Stack
 |  |
@@ -115,9 +117,18 @@ leetcode solutions are available here.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
