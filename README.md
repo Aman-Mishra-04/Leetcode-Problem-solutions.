@@ -51,6 +51,7 @@ leetcode solutions are available here.
 | [0008-string-to-integer-atoi](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@ leetcode solutions are available here.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -154,4 +156,8 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
