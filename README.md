@@ -46,6 +46,7 @@ leetcode solutions are available here.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
