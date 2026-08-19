@@ -6,6 +6,7 @@ leetcode solutions are available here.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 | [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
@@ -27,6 +28,7 @@ leetcode solutions are available here.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
@@ -44,6 +46,7 @@ leetcode solutions are available here.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0012-integer-to-roman) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
