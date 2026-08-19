@@ -52,6 +52,7 @@ leetcode solutions are available here.
 | [0012-integer-to-roman](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
