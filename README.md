@@ -8,6 +8,7 @@ leetcode solutions are available here.
 | ------- |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
+| [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -39,6 +40,7 @@ leetcode solutions are available here.
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0089-gray-code) |
+| [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+| [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 ## Recursion
@@ -67,6 +70,7 @@ leetcode solutions are available here.
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
+| [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/3471-find-the-largest-almost-missing-integer) |
