@@ -55,11 +55,13 @@ leetcode solutions are available here.
 | [0038-count-and-say](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0091-decode-ways) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0091-decode-ways) |
 | [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
