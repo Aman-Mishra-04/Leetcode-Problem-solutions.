@@ -54,6 +54,7 @@ leetcode solutions are available here.
 | [0020-valid-parentheses](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ leetcode solutions are available here.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
