@@ -8,6 +8,7 @@ leetcode solutions are available here.
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 | [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
@@ -83,6 +84,7 @@ leetcode solutions are available here.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -158,6 +160,7 @@ leetcode solutions are available here.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -167,4 +170,12 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
