@@ -10,6 +10,7 @@ leetcode solutions are available here.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 | [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
@@ -19,6 +20,7 @@ leetcode solutions are available here.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0138-copy-list-with-random-pointer) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 ## Design
 |  |
