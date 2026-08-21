@@ -11,6 +11,7 @@ leetcode solutions are available here.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 | [1386-cinema-seat-allocation](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/1386-cinema-seat-allocation) |
@@ -21,6 +22,7 @@ leetcode solutions are available here.
 | [0024-swap-nodes-in-pairs](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -99,6 +101,7 @@ leetcode solutions are available here.
 | [0042-trapping-rain-water](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
@@ -193,4 +196,8 @@ leetcode solutions are available here.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0133-clone-graph) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
