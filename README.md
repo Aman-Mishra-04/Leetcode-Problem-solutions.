@@ -64,6 +64,7 @@ leetcode solutions are available here.
 | [0071-simplify-path](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0097-interleaving-string) |
+| [0165-compare-version-numbers](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ leetcode solutions are available here.
 | [0075-sort-colors](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0165-compare-version-numbers) |
 ## Stack
 |  |
 | ------- |
