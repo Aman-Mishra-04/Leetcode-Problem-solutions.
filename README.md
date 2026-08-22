@@ -40,6 +40,7 @@ leetcode solutions are available here.
 | [0089-gray-code](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aman-Mishra-04/Leetcode-Problem-solutions./tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
 |  |
 | ------- |
